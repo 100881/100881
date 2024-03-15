@@ -2,7 +2,7 @@
 - 👀 I’m interested in: no interest/hobby
 - 🌱 I’m currently learning developing softwares
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dont
+- 📫 How to reach me: dont
 - ⚡ Fun fact: nothing special about me
 
 <!---
