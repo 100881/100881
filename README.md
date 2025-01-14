@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @100881
 - 👀 I’m interested in:
-- 🌱 I’m currently learning developing softwares
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-- ⚡ Fun fact: nothing special about me
+- ⚡ Fun fact: 
 
 <!---
 100881/100881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
